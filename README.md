@@ -7,7 +7,8 @@ The purpose of this analysis is to determine the number of retiring employees pe
 
 * In the retirement_titles table, we could see that each employee has several titles. With time went by, the employees' titles could be changed due to the promotion or demotion. 
 * There is a large demand for senior Engineer, Senior staff, engineer and staff. Meanwhile, only 2 manager positions will be available. 
-  ![Retiring title count](https://user-images.githubusercontent.com/88631769/137415190-87cf71d2-75e8-4dff-8eac-0f132e0a5806.PNG)
+ 
+ ![Retiring title count](https://user-images.githubusercontent.com/88631769/137415190-87cf71d2-75e8-4dff-8eac-0f132e0a5806.PNG)
 
 * The total amount of employees who are eligible for the mentor program is 1549.  
   ![image](https://user-images.githubusercontent.com/88631769/137415299-5507c818-e933-45f0-8f98-49d1c556f498.png)
